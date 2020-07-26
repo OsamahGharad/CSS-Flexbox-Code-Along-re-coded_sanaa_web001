@@ -21,7 +21,7 @@ main {
   /*flex-direction: column;
   flex-wrap: wrap;*/
   flex-flow:row wrap;
-  justify-content: end;
+  justify-content: flex-end;
 
   background-color: #92C9D5;
   width: 100%;
