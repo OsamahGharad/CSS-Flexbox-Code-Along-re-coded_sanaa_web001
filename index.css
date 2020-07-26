@@ -20,7 +20,7 @@ main {
   display: flex;
   /*flex-direction: column;
   flex-wrap: wrap;*/
-  flex-flow: column; wrap;
+  flex-flow: row wrap;
   justify-content: center;
   align-items: stretch;
 
