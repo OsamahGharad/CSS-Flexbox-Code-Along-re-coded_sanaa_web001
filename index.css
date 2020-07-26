@@ -22,7 +22,7 @@ main {
   flex-wrap: wrap;*/
   flex-flow: row wrap;
   justify-content: center;
-  align-items: stretch;
+  align-items: baseline;;
 
   background-color: #92C9D5;
   width: 100%;
