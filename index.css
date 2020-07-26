@@ -21,8 +21,8 @@ main {
   /*flex-direction: column;
   flex-wrap: wrap;*/
   flex-flow: row wrap;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-start;;
 
   background-color: #92C9D5;
   width: 100%;
